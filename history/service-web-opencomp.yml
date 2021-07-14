@@ -1,7 +1,7 @@
 url: https://my.opencomp.fr
-status: up
-code: 200
-responseTime: 1036
-lastUpdated: 2021-07-13T23:15:11.670Z
+status: down
+code: 500
+responseTime: 16364
+lastUpdated: 2021-07-14T13:48:22.860Z
 startTime: Sun Mar 21 2021 14:09:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
